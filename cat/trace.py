@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-from tracing.message_producer import MessageProducer
+from cat.msg_producer import MessageProducer
 
 
 class Trace(object):

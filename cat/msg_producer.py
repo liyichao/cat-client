@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-from tracing.message_manager import MessageManager
-from tracing.transaction import Transaction
+from cat.msg_manager import MessageManager
+from cat.transaction import Transaction
 
 
 class MessageProducer(object):
