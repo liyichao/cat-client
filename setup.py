@@ -10,7 +10,6 @@ setup(
     url='https://github.com/liyichao/cat-client',
     packages=find_packages('.'),
     install_requires=[
-        'kids',
     ],
     entry_points={
         'console_scripts': [
